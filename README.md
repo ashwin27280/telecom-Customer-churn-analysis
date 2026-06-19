@@ -1,6 +1,6 @@
 # telecom-Customer-churn-analysis
 
-here, we have telecom customer dataset
+here, we have telecom customers dataset
 
 Context
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
